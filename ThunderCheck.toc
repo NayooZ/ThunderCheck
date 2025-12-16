@@ -1,0 +1,14 @@
+## Title: |TInterface/Addons/ThunderCheck/media/icon:16:16|t ThunderCheck
+## Notes: LDB Plugin for Isle of Thunder Weekly Progress Tracking.|n|cffbbbbbbBy Nayo
+## X-License: All Rights Reserved
+## Category: Plugins, Data Broker, Titan Panel
+## Author: Nayo
+## Interface: 50503
+## Version: 1.0.0
+## SavedVariables: ThunderCheckDB
+
+
+Libs\LibStub\LibStub.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+
+ThunderCheck.lua
